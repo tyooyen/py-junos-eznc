@@ -61,3 +61,6 @@ desktop.ini
 
 # PyCharm
 .idea
+
+**/__pycache__
+
